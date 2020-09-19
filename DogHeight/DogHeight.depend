@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1598937873 source:c:\users\pedro\documents\phs\phs (são carlos)\projetos\meu negócio\código\youtube\vídeos\rede neural perceptron\dogheight\src\cachorro.cpp
+	"Cachorro.h"
+	<iostream>
+
+1598937912 c:\users\pedro\documents\phs\phs (são carlos)\projetos\meu negócio\código\youtube\vídeos\rede neural perceptron\dogheight\include\cachorro.h
+	<iostream>
+
+1598946857 source:c:\users\pedro\documents\phs\phs (são carlos)\projetos\meu negócio\código\youtube\vídeos\rede neural perceptron\dogheight\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"include/Cachorro.h"
+	"perceptron.h"
+
+1598932463 source:c:\users\pedro\documents\phs\phs (são carlos)\projetos\meu negócio\código\youtube\vídeos\rede neural perceptron\dogheight\train.cpp
+
+1598946960 source:c:\users\pedro\documents\phs\phs (são carlos)\projetos\meu negócio\código\youtube\vídeos\rede neural perceptron\dogheight\perceptron.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+
+1598940551 c:\users\pedro\documents\phs\phs (são carlos)\projetos\meu negócio\código\youtube\vídeos\rede neural perceptron\dogheight\perceptron.cpp
+
+1598946364 c:\users\pedro\documents\phs\phs (são carlos)\projetos\meu negócio\código\youtube\vídeos\rede neural perceptron\dogheight\perceptron.h
+
+1600488095 source:c:\users\pedro\documents\phs\phs (são carlos)\projetos\meu negócio\henriza\youtube\vídeos\rede neural perceptron\dogheight\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"include/Cachorro.h"
+	"perceptron.h"
+
+1598937912 c:\users\pedro\documents\phs\phs (são carlos)\projetos\meu negócio\henriza\youtube\vídeos\rede neural perceptron\dogheight\include\cachorro.h
+	<iostream>
+
+1600487469 c:\users\pedro\documents\phs\phs (são carlos)\projetos\meu negócio\henriza\youtube\vídeos\rede neural perceptron\dogheight\perceptron.h
+
+1598937873 source:c:\users\pedro\documents\phs\phs (são carlos)\projetos\meu negócio\henriza\youtube\vídeos\rede neural perceptron\dogheight\src\cachorro.cpp
+	"Cachorro.h"
+	<iostream>
+
+1598932463 source:c:\users\pedro\documents\phs\phs (são carlos)\projetos\meu negócio\henriza\youtube\vídeos\rede neural perceptron\dogheight\train.cpp
+
+1600487486 source:c:\users\pedro\documents\phs\phs (são carlos)\projetos\meu negócio\henriza\youtube\vídeos\rede neural perceptron\dogheight\perceptron.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+
